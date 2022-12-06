@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammed-gumus
 - 👀 I’m interested in blockchain end front-end development
-- 🌱 I’m currently learning JavaScript, React, TypeScript, Solidity
+- 🌱 I’m currently learning JavaScript, React, Ethers.js, Next.js TypeScript, Solidity
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
