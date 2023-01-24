@@ -8,7 +8,7 @@
 
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
-- You can come with me by clicking the link [link](https://linktr.ee/muhammed.gums)
+- You can come with me by clicking the [link](https://linktr.ee/muhammed.gums)
 
 <br>
 
