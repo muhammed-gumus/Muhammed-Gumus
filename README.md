@@ -3,7 +3,7 @@
 	<samp> Junior Frontend Developer </samp> <br/>
     <samp> I'm doing freelance software business </samp> <br/>
     <samp> I'm developing myself in the field of frontend in the best way. </samp> <br/>
-    <samp> By clicking the https://mami.dev, you can browse my personal website, access my resume and contact me. </samp>
+    <samp> By clicking the https://muhammedgumus.com, you can browse my personal website, access my resume and contact me. </samp>
     <samp></samp> 
  <div> 
 <br>
